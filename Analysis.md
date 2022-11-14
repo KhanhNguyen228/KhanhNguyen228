@@ -1,5 +1,4 @@
-# Introduction
-**This case study is the capstone project of Google Data Analytics Program.**
+# This case study is the capstone project of Google Data Analytics Program
 
 Bellabeat Case Study by Khanh Nguyen
 
@@ -46,3 +45,16 @@ ROCCC stands for Reliable, Original, Comprehensive, Current, Cited.
 - Cited: unknown
 #### Accessibility and Data Privacy
 The data is identified as open-source and published under the CC0: Public Domain license. This data can be used freely for our analysis without asking for permission.
+
+## Step 3: PROCESS
+Using Excel & SQL to clean this data set.
+
+## Step 4: ANALYZE
+Using SQL to analyze this data set
+
+## Step 5: SHARE
+Using Tableau in building dashboards to share key findings
+
+## Step 6: ACT
+
+
