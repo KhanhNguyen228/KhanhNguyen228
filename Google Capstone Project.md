@@ -60,7 +60,7 @@ The data is identified as open-source and published under the CC0: Public Domain
 I created a new file called 'hourly_activity' by using Excel Power Query to merge 3 files: hourlyCalories_merged, hourlyIntensities_merged, and hourlySteps_merged, then imported all files to Microsoft SQL Server Management Studio to continue processing and analyzing.
 ![image](https://user-images.githubusercontent.com/118149630/202075507-6c4501c4-e946-4fcb-866f-b20e6b54f8b3.png)
 
-Refer to the links below for further processing in SQL.
+**Refer to the links below for further processing in SQL**
 
 [Create 'daily_activity_cleaned'](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Cleaning_daily_activity.sql)
 
@@ -71,9 +71,11 @@ Refer to the links below for further processing in SQL.
 ## Step 4: ANALYZE
 **Using SQL to analyze this data set**
 
-**Refer to the link below for further analyzing in SQL.**
+**Refer to the link below for further analyzing in SQL**
 
 [Analyzing daily activities, heart rate, sleep, weight, average minutes for each activity, average steps of each user, most active time](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Analyzing.sql)
+
+[Analyzing each type of activity's time and the correlation between that and calories](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Analyzing_intensity_and_correlation.sql)
 
 ## Step 5: SHARE
 Using Tableau in building dashboards to share key findings
