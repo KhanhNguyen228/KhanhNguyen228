@@ -69,7 +69,10 @@ Refer to the links below for further processing in SQL.
 [Create 'tracked_days'](https://github.com/KhanhNguyen228/Personal_projects/blob/main/creating_tracked_days.sql)
 
 ## Step 4: ANALYZE
-Using SQL to analyze this data set
+**Using SQL to analyze this data set**
+Refer to the link below for further analyzing in SQL.
+
+[Analyzing the data set](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Analyzing.sql)
 
 ## Step 5: SHARE
 Using Tableau in building dashboards to share key findings
