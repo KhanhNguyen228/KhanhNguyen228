@@ -70,9 +70,10 @@ Refer to the links below for further processing in SQL.
 
 ## Step 4: ANALYZE
 **Using SQL to analyze this data set**
-Refer to the link below for further analyzing in SQL.
 
-[Analyzing the data set](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Analyzing.sql)
+**Refer to the link below for further analyzing in SQL.**
+
+[Analyzing daily activities, heart rate, sleep, weight, average minutes for each activity, average steps of each user, most active time](https://github.com/KhanhNguyen228/Personal_projects/blob/main/Analyzing.sql)
 
 ## Step 5: SHARE
 Using Tableau in building dashboards to share key findings
