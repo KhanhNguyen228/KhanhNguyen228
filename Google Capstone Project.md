@@ -80,6 +80,10 @@ I created a new file called 'hourly_activity' by using Excel Power Query to merg
 ## Step 5: SHARE
 Using Tableau in building dashboards to share key findings
 
+Refer to the link below:
+
+[Data visualization with Tableau](https://public.tableau.com/app/profile/giakhanh2208/viz/GoogleDataAnalyticsCapstoneProject_16686921201920/Story1)
+
 ## Step 6: ACT
 
 
