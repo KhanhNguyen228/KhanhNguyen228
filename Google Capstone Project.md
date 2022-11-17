@@ -99,5 +99,7 @@ Refer to the link below:
 - 24 respondents tracked their sleeping patterns; it could be related to the device's battery or it could be uncomfortable to wear during sleep. Bellabeat should improve the battery life or conduct research into how to make it more comfortable.
 - 14 respondents tracked their heart rate; Bellabeat should consider offering reminders and giving warnings if there's a suspected fluctuation in heart rate to prevent an imminent heart attack.
 - Because sedentary activities account for up to 81% of total time spent, Bellabeat may consider a personalized pop-up notification to remind and encourage users to be active. 
+- Send training reminders before the most active hour.
+- Bellabeat should also focus on the privacy of their user's personal.
 
 
