@@ -84,6 +84,16 @@ Refer to the link below:
 
 [Data visualization with Tableau](https://public.tableau.com/app/profile/giakhanh2208/viz/GoogleDataAnalyticsCapstoneProject_16686921201920/Story1)
 
+**Key findings**
+- All respondents tracked their physical activities, including total steps, distance traveled, and time spent doing very active, moderately active, light active, sedentary, and sedentary activities, as well as total calories burned.
+- 24 respondents tracked their sleeping patterns, 14 respondents tracked their heart rate, and only 8 respondents logged in their weight.
+- Most respondents used the app consistently; only 1 respondent used the device for just 4 days.
+- Respondents clocked an average of 7600 steps, which is approximately 5.5 km in distance, and burned an average of 2300 calories a day. Only seven people took more than 10,000 steps per day, which is the recommended amount. 
+- Sedentary activities take up to 81% of the total amount of time, while very active and fairly active activities are just approximately 2% and 1%, respectively.
+- Most respondents were involved in dynamic activities from around 5:00 PM to 7:00 PM & 1:00 PM to 3:00 PM. The hourly intensity also increases gradually from 5:00 AM to 12:00 PM and starts to decrease from 8:00 PM onward.
+- There's a slight positive correlation between the amount of time per activity and calories burned. The more they are active, the more calories they burn.
 ## Step 6: ACT
+### Recommendations
+- 
 
 
