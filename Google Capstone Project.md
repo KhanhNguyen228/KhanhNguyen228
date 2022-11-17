@@ -94,6 +94,10 @@ Refer to the link below:
 - There's a slight positive correlation between the amount of time per activity and calories burned. The more they are active, the more calories they burn.
 ## Step 6: ACT
 ### Recommendations
-- 
+- All respondents used the tracking device throughout the day, not only when they did exercises. Bellabeat should make its product fashionable in order to enhance users' appearances.
+- With only eight users logging in their weight, Bellabeat should consider a campaign that focuses on tracking as well as creating an exercise schedule to achieve a weight loss goal.
+- 24 respondents tracked their sleeping patterns; it could be related to the device's battery or it could be uncomfortable to wear during sleep. Bellabeat should improve the battery life or conduct research into how to make it more comfortable.
+- 14 respondents tracked their heart rate; Bellabeat should consider offering reminders and giving warnings if there's a suspected fluctuation in heart rate to prevent an imminent heart attack.
+- Because sedentary activities account for up to 81% of total time spent, Bellabeat may consider a personalized pop-up notification to remind and encourage users to be active. 
 
 
