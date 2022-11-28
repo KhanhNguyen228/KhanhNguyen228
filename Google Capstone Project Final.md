@@ -102,4 +102,6 @@ Refer to the link below:
 - Send training reminders before the most active hour.
 - Bellabeat should also focus on the privacy of their user's personal.
 
+### Note: This data collection has limitations because of the sample size; additional research is needed.
+
 
